@@ -1,0 +1,3 @@
+C:/Users/User/OneDrive/Info/Random/Compiler pseudocod/cmake-build-debug/CMakeFiles/Compiler_pseudocod.dir
+C:/Users/User/OneDrive/Info/Random/Compiler pseudocod/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/OneDrive/Info/Random/Compiler pseudocod/cmake-build-debug/CMakeFiles/rebuild_cache.dir
